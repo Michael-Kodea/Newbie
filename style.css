@@ -142,11 +142,6 @@ body {
   }
 
   @media (max-width:600px) {
-
-    .wrapper {
-      overflow-y: scroll;
-      -webkit-overflow-scrolling: touch;
-    }
     
     .overlay {
       flex-direction: column;
